@@ -25,5 +25,17 @@ The **USBridge Flip-HAT** is a professional rear-mount terminal designed specifi
 - **Visual Clarity:** Premium IPS panel with wide viewing angles.
 - **Enhanced UI:** Dedicated hardware controls for complex menu navigation.
 
+## Hardware Components
+
+The hardware design is open for community use. You can find all necessary production files in the `/Gerber` directory.
+
+### Production Files
+- **Gerber Files:** Located in `/Gerber`. Ready for PCB fabrication (Standard 2-layer, 1.6mm thickness recommended).
+
+### Key Components Reference
+- **Display:** 1.3" IPS LCD (ST7789 Driver)
+- **Joystick:** 5-way navigation switch
+- **Buttons:** 3x SMD tactile switches
+- **Header:** 40-pin female connector for RPi Zero
 ---
 Designed by **USBridge** in Spain.
