@@ -27,10 +27,10 @@ The **USBridge Flip-HAT** is a professional rear-mount terminal designed specifi
 
 ## Hardware Components
 
-The hardware design is open for community use. You can find all necessary production files in the `/Gerber` directory.
+The hardware design is open for community use. You can find all necessary production files in the [/Gerber](./Gerber) directory.
 
 ### Production Files
-- **Gerber Files:** Located in `/Gerber`. Ready for PCB fabrication (Standard 2-layer, 1.6mm thickness recommended).
+- **Gerber Files:** Located in [/Gerber](./Gerber). Ready for PCB fabrication (Standard 2-layer, 1.6mm thickness recommended).
 
 ### Key Components Reference
 - **Display:** 1.3" IPS LCD (ST7789 Driver)
